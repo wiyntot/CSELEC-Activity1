@@ -50,5 +50,6 @@ w, h = bbox[2] - bbox[0], bbox[3] - bbox[1]
 draw.text((center_x - w//2, 50), text, font=font, fill="black")
 
 # Save and show
-#img.save("CSELEC SAlUBREJOHNWAYNE Activity1.png")
+#img.save("CSELEC_3b SAlUBREJOHNWAYNE Activity1.png")
 img.show()
+
